@@ -1,0 +1,6 @@
+{
+    "baseCsv": "output.csvのパス",
+    "weaponNameList": "statink-weapon2.csvのパス",
+    "processedData": "processed.csvのパス",
+    "outputModel": "モデル書き出し先のパス"
+}
